@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/8Y4JZqk/github-banner.png" alt="GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abdullah%20Al%20Noman&fontSize=40&fontColor=ffffff" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
 <h3 align="center">Frontend Developer</h3>
 
