@@ -1,40 +1,50 @@
-<!-- Banner with React & Tailwind Icons -->
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+
+<svg viewBox="0 0 1200 260" width="100%" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#0ea5e9"/>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#0ea5e9" />
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="180" fill="url(#bg)" rx="16"/>
+  <rect width="1200" height="260" fill="url(#gradient)" rx="18"/>
+
+  <!-- Decorative Lines -->
+  <circle cx="200" cy="80" r="3" fill="#38bdf8"/>
+  <circle cx="1000" cy="180" r="3" fill="#38bdf8"/>
 
   <!-- Name -->
-  <text x="600" y="80" text-anchor="middle"
-        font-size="40"
+  <text x="600" y="110"
+        text-anchor="middle"
+        font-size="46"
         font-family="Segoe UI, Arial, sans-serif"
         fill="#ffffff"
         font-weight="700">
     Abdullah Al Noman
   </text>
 
-  <!-- Title -->
-  <text x="600" y="115" text-anchor="middle"
-        font-size="20"
+  <!-- Role -->
+  <text x="600" y="150"
+        text-anchor="middle"
+        font-size="22"
         font-family="Segoe UI, Arial, sans-serif"
-        fill="#e5e7eb">
+        fill="#cbd5f5">
     Frontend Developer
   </text>
 
   <!-- Skills -->
-  <text x="600" y="150" text-anchor="middle"
-        font-size="18"
+  <text x="600" y="195"
+        text-anchor="middle"
+        font-size="20"
         font-family="Segoe UI, Arial, sans-serif"
         fill="#38bdf8">
-    ⚛️ React • 🌊 Tailwind CSS
+    ⚛️ React &nbsp;&nbsp;•&nbsp;&nbsp; 🌊 Tailwind CSS
   </text>
 </svg>
+
+</div>
 
 
 ---
