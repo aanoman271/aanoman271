@@ -1,11 +1,41 @@
 <!-- Banner with React & Tailwind Icons -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Abdullah%20Al%20Noman&fontColor=ffffff&fontSize=38&desc=Frontend%20Developer%20|%20React%20%26%20Tailwind%20CSS&descAlignY=65" />
-</p>
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" height="50"/>
-</p>
+  <!-- Background -->
+  <rect width="1200" height="180" fill="url(#bg)" rx="16"/>
+
+  <!-- Name -->
+  <text x="600" y="80" text-anchor="middle"
+        font-size="40"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#ffffff"
+        font-weight="700">
+    Abdullah Al Noman
+  </text>
+
+  <!-- Title -->
+  <text x="600" y="115" text-anchor="middle"
+        font-size="20"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#e5e7eb">
+    Frontend Developer
+  </text>
+
+  <!-- Skills -->
+  <text x="600" y="150" text-anchor="middle"
+        font-size="18"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#38bdf8">
+    ⚛️ React • 🌊 Tailwind CSS
+  </text>
+</svg>
+
 
 ---
 
