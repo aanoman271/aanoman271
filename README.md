@@ -1,11 +1,14 @@
-# Hi there, I'm Abdullah Al Noman 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:3b82f6,100:06b6d4&height=300&section=header&text=Abdullah%20Al%20Noman&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descSize=25&descAlignY=55" alt="Banner" />
+</p>
 
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Abdullah%20Al%20Noman&fontSize=70&animation=fadeIn&desc=Frontend%20Developer&descAlignY=65&descAlign=50)
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  </a>
 </p>
 ---
 
