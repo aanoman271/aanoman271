@@ -1,31 +1,12 @@
-<div align="center">
-  <div style="
-    background: linear-gradient(-45deg, #0f172a, #1e293b, #3b82f6, #06b6d4);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-    padding: 50px;
-    border-radius: 15px;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-  ">
-    <h1 style="font-size: 3rem; margin-bottom: 0;">Abdullah Al Noman</h1>
-    <p style="font-size: 1.5rem; opacity: 0.9;">Frontend Developer</p>
-    
-    <div style="margin-top: 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin-right: 15px;"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-    </div>
-  </div>
-</div>
+# Hi there, I'm Abdullah Al Noman 👋
 
-<style>
-@keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-</style>
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Abdullah%20Al%20Noman&fontSize=70&animation=fadeIn&desc=Frontend%20Developer&descAlignY=65&descAlign=50)
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
