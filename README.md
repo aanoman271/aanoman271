@@ -1,72 +1,32 @@
 <div align="center">
-
-<svg viewBox="0 0 1200 260" width="100%" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Gradient animation -->
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0ea5e9">
-        <animate attributeName="stop-color" values="#0ea5e9;#22c55e;#0ea5e9" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#020617">
-        <animate attributeName="stop-color" values="#020617;#1e293b;#020617" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="260" fill="url(#grad)" rx="20"/>
-
-  <!-- Floating dots -->
-  <circle cx="150" cy="70" r="3" fill="#38bdf8">
-    <animate attributeName="cy" values="70;90;70" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1050" cy="180" r="3" fill="#38bdf8">
-    <animate attributeName="cy" values="180;160;180" dur="5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Name -->
-  <text x="600" y="115"
-        text-anchor="middle"
-        font-size="48"
-        font-family="Segoe UI, Arial, sans-serif"
-        fill="#ffffff"
-        font-weight="700"
-        filter="url(#glow)">
-    Abdullah Al Noman
-  </text>
-
-  <!-- Role -->
-  <text x="600" y="155"
-        text-anchor="middle"
-        font-size="22"
-        font-family="Segoe UI, Arial, sans-serif"
-        fill="#e5e7eb">
-    Frontend Developer
-  </text>
-
-  <!-- Skills -->
-  <text x="600" y="200"
-        text-anchor="middle"
-        font-size="20"
-        font-family="Segoe UI, Arial, sans-serif"
-        fill="#38bdf8">
-    ⚛️ React &nbsp;•&nbsp; 🌊 Tailwind CSS
-  </text>
-
-</svg>
-
+  <div style="
+    background: linear-gradient(-45deg, #0f172a, #1e293b, #3b82f6, #06b6d4);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    padding: 50px;
+    border-radius: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  ">
+    <h1 style="font-size: 3rem; margin-bottom: 0;">Abdullah Al Noman</h1>
+    <p style="font-size: 1.5rem; opacity: 0.9;">Frontend Developer</p>
+    
+    <div style="margin-top: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin-right: 15px;"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+    </div>
+  </div>
 </div>
 
+<style>
+@keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+</style>
+---
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
