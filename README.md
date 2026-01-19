@@ -1,17 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Abdullah+Al+Noman;Frontend+Developer" alt="Typing SVG" />
-
-<br/>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://i.ibb.co.com/hF9B9cxw/Chat-GPT-Image-Jan-20-2026-03-29-55-AM.png" alt="Chat GPT Image Jan 20 2026 03 29 55 AM" border="0">
 </p>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=footer" width="1000" />
-
-</div>
-
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
 I enjoy working with modern JavaScript frameworks and clean UI design.  
