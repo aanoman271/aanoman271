@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:3b82f6,100:06b6d4&height=300&section=header&text=Abdullah%20Al%20Noman&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descSize=25&descAlignY=55" alt="Banner" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Abdullah+Al+Noman;Frontend+Developer" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
----
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=footer" width="1000" />
+
+</div>
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
