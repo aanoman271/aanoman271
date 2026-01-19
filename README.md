@@ -67,7 +67,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 I am a passionate Frontend Developer focused on building responsive and user-friendly web applications.  
