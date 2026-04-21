@@ -2,88 +2,92 @@
   <img src="https://i.ibb.co.com/hF9B9cxw/Chat-GPT-Image-Jan-20-2026-03-29-55-AM.png" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
-<div align="center">
+<h1 align="center">Hey there, I'm Aano 👋</h1>
 
-  <h1>Hi, I'm Abdullah 👋</h1>
-
-  <h3>A Growing Frontend Developer crafting delightful digital experiences with React & Next.js</h3>
-
-  <p>
-    Turning ideas into clean, responsive, and user-centered web applications.
-  </p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate and continuously learning **Frontend Developer** with a strong focus on building modern, responsive, and intuitive web interfaces.  
-
-I specialize in React and Next.js ecosystems, emphasizing clean code, pixel-perfect design, and exceptional user experiences. Currently deepening my expertise in Next.js while working on real-world projects to bridge the gap between learning and production-level development.
-
----
-
-## 🚀 What I'm Working On
-
-- 🌱 Deep diving into **Next.js 15** and its latest features (App Router, Server Actions, Streaming)
-- 🏗️ Building a modern **Tourism Website** with focus on performance and stunning UI/UX
-- 🎨 Elevating interfaces using **Tailwind CSS** and modern design systems
-
----
-
-## 🛠️ Skills
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,nextjs" />
+<p align="center">
+  <strong>Frontend Developer · React & Next.js Enthusiast · UI/UX Minded Builder</strong>
 </p>
 
-### 🧰 Tools & Platforms
+<p align="center">
+  <em>Turning ideas into clean, performant, and accessible web experiences — one component at a time.</em>
+</p>
 
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanoman271&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a frontend developer with a passion for building responsive, polished web applications that feel great to use. I work primarily with **React** and **Next.js**, and I care deeply about clean code, thoughtful UI, and smooth user experiences.
+
+I'm at an exciting stage in my journey — actively building real-world projects, sharpening my skills, and growing into a well-rounded developer. I believe consistent practice and shipping real things beats waiting to feel "ready."
+
+- 🌍 Based in Bangladesh
+- 🧠 Currently deepening my expertise in **Next.js** and **full-stack patterns**
+- 🎯 Goal: Build production-ready projects that solve real problems
+- 💬 Ask me about **React**, **Tailwind CSS**, or **frontend architecture**
+
+---
+
+## 🔭 What I'm Working On
+
+| Project | Stack | Status |
+|---|---|---|
+| 🏝️ Tourism Website | React · Tailwind CSS · Next.js | 🚧 In Progress |
+| 🎨 UI/UX Experiments | Tailwind CSS · Framer Motion | 🔄 Ongoing |
+| 📚 Next.js Deep Dive | Next.js · TypeScript | 📖 Learning |
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+</p>
+
+### Tools & Platforms
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
-  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanoman271&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Streak Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-  <em>"Code is not just about writing programs — it's about crafting experiences that people love to use."</em>
+<p>
+  <a href="https://github.com/aanoman271">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+</p>
 
-</div>
+---
 
 <p align="center">
-  <strong>Thanks for visiting my profile! ✨</strong>
+  <em>"The best time to start was yesterday. The second best time is now — so keep building."</em>
+</p>
+
+<p align="center">
+  ⭐ <strong>If you find my work interesting, feel free to star a repo — it means a lot!</strong>
 </p>
