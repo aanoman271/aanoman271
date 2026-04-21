@@ -2,7 +2,7 @@
  <img src="https://i.ibb.co.com/DfFwDqyG/Gemini-Generated-Image-xqydq0xqydq0xqyd.png" alt="Gemini Generated Image xqydq0xqydq0xqyd" border="0">
 </p>
 
-<h1 align="center">Hey there, I'm Aano 👋</h1>
+<h1 align="center">Hey there, I'm Noman 👋</h1>
 
 <p align="center">
   <strong>Frontend Developer · React & Next.js Enthusiast · UI/UX Minded Builder</strong>
