@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/hF9B9cxw/Chat-GPT-Image-Jan-20-2026-03-29-55-AM.png" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
+  <img src="[https://i.ibb.co.com/hF9B9cxw/Chat-GPT-Image-Jan-20-2026-03-29-55-AM.png](https://ibb.co.com/GQDCvhLs)" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hey there, I'm Aano 👋</h1>
