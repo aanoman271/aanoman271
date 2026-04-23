@@ -57,7 +57,7 @@ I'm at an exciting stage in my journey — actively building real-world projects
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=aanoman271&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanoman271&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -73,12 +73,10 @@ I'm at an exciting stage in my journey — actively building real-world projects
   <a href="https://github.com/aanoman271">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdullahalnoman291/)">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
+ 
 </p>
 
 ---
