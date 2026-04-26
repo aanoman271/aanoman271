@@ -69,7 +69,7 @@ I'm at an exciting stage in my journey — actively building real-world projects
   <a href="https://github.com/aanoman271">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>&nbsp;
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdullahalnoman291/)">
+  <a href="https://www.linkedin.com/in/abdullahalnoman291/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>&nbsp;
  
