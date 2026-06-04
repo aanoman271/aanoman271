@@ -48,13 +48,14 @@ frontend developer based in bangladesh. i build responsive web applications with
 
 ## github stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="49%" />
+</p>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff) |
-| --- | --- |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=aanoman271&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff) | |
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aanoman271&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+</p>
 
 ---
 
