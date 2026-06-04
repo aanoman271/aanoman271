@@ -1,85 +1,126 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/DfFwDqyG/Gemini-Generated-Image-xqydq0xqydq0xqyd.png" alt="Noman Banner" width="800" />
+  <img src="https://i.ibb.co.com/DfFwDqyG/Gemini-Generated-Image-xqydq0xqydq0xqyd.png" alt="Noman Banner" width="100%" />
 </p>
 
-<h1 align="center">Noman</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
+
+<h3 align="center">
+Frontend Developer | React.js | Next.js | TypeScript
+</h3>
 
 <p align="center">
-  <strong>frontend developer · react & next.js · ui/ux minded</strong>
+Building responsive, scalable, and user-focused web applications.
 </p>
 
 <p align="center">
-  <em>clean code · polished interfaces · thoughtful experiences</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanoman271&label=views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## about
-
-frontend developer based in bangladesh. i build responsive web applications with react and next.js, focusing on clean code and smooth user experiences.
-
-- currently deepening next.js and full-stack patterns
-- goal: ship production-ready projects that solve real problems
-- ask me about react, tailwind, or frontend architecture
-
----
-
-## currently working on
-
-| project | stack | status |
-| --- | --- | --- |
-| tourism website | react · tailwind · next.js | in progress |
-| ui experiments | tailwind · framer motion | ongoing |
-| next.js deep dive | next.js · typescript | learning |
-
----
-
-## tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,git,github,vscode,figma" />
+  <img src="https://komarev.com/ghpvc/?username=aanoman271&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## contributions
+## 🚀 About Me
+
+- 💻 Frontend Developer passionate about modern web technologies
+- ⚛️ Specialized in React.js and Next.js
+- 🎯 Focused on clean code, performance, and user experience
+- 🌱 Currently exploring advanced Next.js and full-stack architecture
+- 🤝 Open to internships, junior developer roles, and collaboration opportunities
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/aanoman271" alt="Noman's GitHub Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
 ---
 
-## github stats
+## 🌟 Featured Project
+
+### Loan Link — Microloan Management Platform
+
+A full-stack microloan management platform built with React.
+
+#### Features
+
+- Loan application workflow
+- Loan approval & rejection system
+- Role-based access control
+- User management dashboard
+- Admin management functionalities
+
+#### Tech Stack
+
+React • Express.js • MongoDB • JWT • Tailwind CSS
+
+🔗 Live Demo:
+https://laon-link-microloan-service.vercel.app/
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aanoman271&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanoman271&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/aanoman271"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdullahalnoman291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aanoman271&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aanoman271&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aanoman271">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdullahalnoman291/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+📧 aanoman291@gmail.com
+</p>
+
+<p align="center">
+🌐 https://portfolio-noman-dev.vercel.app
 </p>
 
 ---
 
 <p align="center">
-  <em>"the best time to start was yesterday. the second best time is now — so keep building."</em>
+  <i>
+    "The best way to learn is to keep building."
+  </i>
 </p>
 
 <p align="center">
-  <strong>⭐ star a repo if you find my work interesting</strong>
+⭐ If you like my projects, consider giving them a star.
 </p>
