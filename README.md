@@ -9,22 +9,22 @@ Frontend Developer | React.js | Next.js | TypeScript
 </h3>
 
 <p align="center">
-Building responsive, scalable, and user-focused web applications.
+Building modern, responsive and user-focused web applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanoman271&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aanoman271&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer passionate about modern web technologies
+- 💻 Frontend Developer passionate about building modern web applications
 - ⚛️ Specialized in React.js and Next.js
 - 🎯 Focused on clean code, performance, and user experience
-- 🌱 Currently exploring advanced Next.js and full-stack architecture
-- 🤝 Open to internships, junior developer roles, and collaboration opportunities
+- 🌱 Currently learning advanced Next.js and full-stack development
+- 🤝 Open to collaboration and new opportunities
 
 ---
 
@@ -45,17 +45,28 @@ A full-stack microloan management platform built with React.
 #### Features
 
 - Loan application workflow
-- Loan approval & rejection system
+- Manager approval & rejection system
 - Role-based access control
-- User management dashboard
-- Admin management functionalities
+- Admin dashboard
+- User management system
 
 #### Tech Stack
 
 React • Express.js • MongoDB • JWT • Tailwind CSS
 
-🔗 Live Demo:
+🔗 Live Demo  
 https://laon-link-microloan-service.vercel.app/
+
+---
+
+## 📂 Current Focus
+
+| Area | Status |
+|--------|--------|
+| Next.js | 🚀 Learning Deeply |
+| TypeScript | 🚀 Improving |
+| Full Stack Development | 🚀 Ongoing |
+| System Design | 📚 Exploring |
 
 ---
 
@@ -63,32 +74,6 @@ https://laon-link-microloan-service.vercel.app/
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanoman271&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aanoman271&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanoman271&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aanoman271&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aanoman271&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
@@ -110,8 +95,18 @@ https://laon-link-microloan-service.vercel.app/
 </p>
 
 <p align="center">
-🌐 https://portfolio-noman-dev.vercel.app
+🌐 portfolio-noman-dev.vercel.app
 </p>
+
+---
+
+## 🎯 Goals For 2026
+
+- Build production-ready full-stack applications
+- Master Next.js ecosystem
+- Contribute to open source
+- Land a professional developer role
+- Continue improving UI/UX skills
 
 ---
 
