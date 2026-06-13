@@ -18,13 +18,7 @@ Building modern, responsive and user-focused web applications.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanoman271&theme=tokyonight&hide_border=true" alt="Noman GitHub Streak" />
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -44,29 +38,6 @@ Building modern, responsive and user-focused web applications.
 
 ---
 
-## 🌟 Featured Project
-
-### Loan Link — Microloan Management Platform
-
-A full-stack microloan management platform built with React.
-
-#### Features
-
-- Loan application workflow
-- Manager approval & rejection system
-- Role-based access control
-- Admin dashboard
-- User management system
-
-#### Tech Stack
-
-React • Express.js • MongoDB • JWT • Tailwind CSS
-
-🔗 Live Demo  
-https://laon-link-microloan-service.vercel.app/
-
----
-
 ## 📂 Current Focus
 
 | Area | Status |
@@ -77,7 +48,13 @@ https://laon-link-microloan-service.vercel.app/
 | System Design | 📚 Exploring |
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanoman271&theme=tokyonight&hide_border=true" alt="Noman GitHub Streak" />
+</p>
+
+---
 ## 📈 GitHub Activity
 
 <p align="center">
